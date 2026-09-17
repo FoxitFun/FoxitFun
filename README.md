@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FoxitFun
-- 👀 I’m interested in CFD, FEM, Desktop Apps and Web Spps, e-teaching/e-learning.
+- 👀 I’m interested in CFD, FEM, Desktop Apps and Web Apps, e-teaching/e-learning.
 - 🌱 I’m currently learning Python (Upper-intermediate) and C# (beginner).
 - 💞️ I’m looking to collaborate on in my in future projects.
 - 📫 How to reach me: let's start from here.
